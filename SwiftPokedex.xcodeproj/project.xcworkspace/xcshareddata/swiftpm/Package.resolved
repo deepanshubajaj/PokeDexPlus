@@ -1,0 +1,24 @@
+{
+  "originHash" : "b50b96329b743c2350492242062c50188018dbec082553c9041284fca4b3f465",
+  "pins" : [
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios",
+      "state" : {
+        "revision" : "047aa81b77adcbf583a966dfef620d17650cc656",
+        "version" : "4.5.1"
+      }
+    },
+    {
+      "identity" : "networking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/brillcp/Networking.git",
+      "state" : {
+        "revision" : "778dfd4e3f58274c5e092f08dee8404d16797437",
+        "version" : "0.8.8"
+      }
+    }
+  ],
+  "version" : 3
+}
