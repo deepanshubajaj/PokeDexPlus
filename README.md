@@ -49,7 +49,7 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 ## App Look:
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/appLook.jpg" alt="App Look" width="30%" />
+  <img src="ProjectOutputs/Snapshots/appLook.jpeg" alt="App Look" width="30%" />
 </p>
 <p align="center">
   *App snapshot in the simulator.*
