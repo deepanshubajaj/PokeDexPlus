@@ -74,6 +74,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+---
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen4.jpg" alt="Main Screen 4" width="30%" />
@@ -248,4 +250,5 @@ Here’s a short video showcasing the app's functionality:
 </p>
 
 [Watch Splash Screen Video](ProjectOutputs/WorkingVideo/splashScreen.mp4)
+
 [Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.MP4)
