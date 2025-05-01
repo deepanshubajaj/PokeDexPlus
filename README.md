@@ -78,6 +78,10 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   *Splash screen displayed upon app launch.*
 </p>
 
+
+##
+
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen1.jpg" alt="Main Screen 1" width="30%" />
@@ -298,7 +302,7 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="40%" />
 </p>
 
 [Watch Splash Screen Video](ProjectOutputs/WorkingVideo/splashScreen.mp4)
