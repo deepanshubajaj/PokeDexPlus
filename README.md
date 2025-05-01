@@ -1,5 +1,3 @@
-# PokeDexPlus
-
 <h1 align="center">🐹 PokéDex+ - iOS App</h1>
 
 <p align="center"><img src="ProjectOutputs/Snapshots/pokedex.png" width="20%"></p>
