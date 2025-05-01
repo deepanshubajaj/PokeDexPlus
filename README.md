@@ -305,9 +305,9 @@ Here’s a short video showcasing the app's functionality:
   <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="40%" />
 </p>
 
-[🎬 Watch Splash Screen Video](ProjectOutputs/WorkingVideo/splashScreen.mp4)
+[➤ 🎬 Watch Splash Screen Video](ProjectOutputs/WorkingVideo/splashScreen.mp4)
 
-[🎥 Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.MP4)
+[➤ 🎥 Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.MP4)
 
 ---
 
