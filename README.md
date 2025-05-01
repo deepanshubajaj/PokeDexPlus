@@ -6,9 +6,13 @@
 
 > The Pokédex (ポケモン図鑑ずかん, Pokemon Zukan, Illustrated Pokémon Encyclopedia) is an electronic device created and designed to catalog and provide information regarding the various species of Pokémon featured in the Pokémon video game, anime and manga series. The name Pokédex is a neologism including "Pokémon" (which itself is a portmanteau of "pocket" and "monster") and "index". The Japanese name is simply "Pokémon Encyclopedia", as it can feature every Pokémon on it, depending on the Pokédex. - <a href="https://pokemon.fandom.com/wiki/Pok%C3%A9dex" target="_blank">Pokemon Fandom Wiki</a>
 
+##
+
 **PokéDex+** is a feature-packed Pokémon app that brings your favorite Pokémon to life with a sleek, user-friendly interface. It fetches data from the **PokéDex API** and displays a comprehensive list of Pokémon, their stats, and their most common items. With unique features like compositional layout, async image downloading, infinite scrolling, and more, PokéDex+ is built to deliver a polished user experience. The app is structured using the **RIB+VVM architecture**, an enhanced interpretation of the popular RIB architecture by Uber.
 
-## Features:
+---
+
+## ✨ Features:
 
 - **Compositional Layout**: Beautiful grid and table views powered by compositional layouts for smooth scrolling and flexible UI.
 - **Async Image Downloading and Caching**: Images of Pokémon are downloaded asynchronously with caching to provide faster access.
@@ -21,7 +25,9 @@
 - **Dominant Color Detection**: Each Pokémon's sprite is analyzed to display its most dominant color in the UI.
 - **Most Common Items**: Shows a list of the most common items associated with Pokémon.
 
-## Installation:
+---
+
+## 🛠️ Installation:
 
 To run this project locally:
 
@@ -39,14 +45,18 @@ To run this project locally:
 
 > Make sure you have Xcode installed and configured properly to run the project.
 
-## API Reference:
+---
+
+## ⚙️ API Reference:
 
 <img src="ProjectOutputs/Snapshots/pokeapi.png" align="right" width="21%"/>
 
 Pokedex using the [PokeAPI](https://pokeapi.co/) for constructing RESTful API.<br>
 PokeAPI provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
 
-## App Look:
+---
+
+## 🖼️ App Look:
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/appLook.jpeg" alt="App Look" width="30%" />
@@ -55,7 +65,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   *App snapshot in the simulator.*
 </p>
 
-## Screenshots:
+---
+
+## 🖼️ Screenshots:
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/SScreen1.jpg" alt="Splash Screen 1" width="30%" />
@@ -84,6 +96,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen7.jpg" alt="Main Screen 7" width="30%" />
@@ -91,6 +105,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen9.jpg" alt="Main Screen 9" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -100,6 +116,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen11.jpg" alt="Main Screen 11" width="30%" />
@@ -107,6 +125,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen13.jpg" alt="Main Screen 13" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -116,6 +136,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen17.jpg" alt="Main Screen 17" width="30%" />
@@ -123,6 +145,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -132,6 +156,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen23.jpg" alt="Main Screen 23" width="30%" />
@@ -139,6 +165,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen25.jpg" alt="Main Screen 25" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -148,6 +176,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen29.jpg" alt="Main Screen 29" width="30%" />
@@ -155,6 +185,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen31.jpg" alt="Main Screen 31" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -164,6 +196,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen35.jpg" alt="Main Screen 35" width="30%" />
@@ -171,6 +205,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen37.jpg" alt="Main Screen 37" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -180,6 +216,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen41.jpg" alt="Main Screen 41" width="30%" />
@@ -187,6 +225,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen43.jpg" alt="Main Screen 43" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -196,6 +236,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen47.jpg" alt="Main Screen 47" width="30%" />
@@ -203,6 +245,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen49.jpg" alt="Main Screen 49" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -212,6 +256,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
+##
+
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen53.jpg" alt="Main Screen 53" width="30%" />
@@ -219,6 +265,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
     <img src="ProjectOutputs/Snapshots/mainScreen55.jpg" alt="Main Screen 55" width="30%" />
   </div>
 </p>
+
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -232,7 +280,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   *Screenshots of the PokéDex+ app showing different screens*
 </p>
 
-## App Icon:
+---
+
+## 📱 App Icon:
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="30%" />
@@ -241,7 +291,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   *The app icon reflects the PokéDex+ look*
 </p>
 
-## Video Demo:
+---
+
+## 🚀 Video Demo:
 
 Here’s a short video showcasing the app's functionality:
 
@@ -252,3 +304,24 @@ Here’s a short video showcasing the app's functionality:
 [Watch Splash Screen Video](ProjectOutputs/WorkingVideo/splashScreen.mp4)
 
 [Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.MP4)
+
+---
+
+## 🤝 Contributing
+
+Thank you for your interest in contributing to this project!  
+I welcome contributions from the community.
+
+- You are free to use, modify, and redistribute this code under the terms of the MIT License.
+- If you'd like to contribute, please **open an issue** or **submit a pull request**.
+- All contributions will be reviewed and approved by the author — **Deepanshu Bajaj**.
+
+---
+
+## 📃 License
+
+This project is licensed under the [Apache-2.0 License](./LICENSE).  
+You are free to use this project for personal, educational, or commercial purposes — just make sure to provide proper attribution.
+
+> **Clarification:** Commercial use includes, but is not limited to, use in products,  
+> services, or activities intended to generate revenue, directly or indirectly.
