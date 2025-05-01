@@ -74,7 +74,7 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
   </div>
 </p>
 
----
+##
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
