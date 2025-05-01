@@ -221,8 +221,8 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen56.jpg" alt="Main Screen 56" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen57.jpg" alt="Main Screen 57" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen54.jpg" alt="Main Screen 58" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen51.jpg" alt="Main Screen 57" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen52.jpg" alt="Main Screen 58" width="30%" />
   </div>
 </p>
 
