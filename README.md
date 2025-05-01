@@ -1,6 +1,6 @@
 # PokeDexPlus
 
-<h1 align="center">PokéDex+ - iOS App</h1>
+<h1 align="center">🐹 PokéDex+ - iOS App</h1>
 
 <p align="center"><img src="ProjectOutputs/Snapshots/pokedex.png" width="20%"></p>
 
@@ -56,7 +56,7 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 ---
 
-## 🖼️ App Look:
+## 🎨 App Look:
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/appLook.jpeg" alt="App Look" width="30%" />
