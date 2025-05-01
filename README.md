@@ -51,7 +51,7 @@ To run this project locally:
 
 <img src="ProjectOutputs/Snapshots/pokeapi.png" align="right" width="21%"/>
 
-Pokedex using the [PokeAPI](https://pokeapi.co/) for constructing RESTful API.<br>
+Pokedex using the [PokéAPI](https://pokeapi.co/) for constructing RESTful API.<br>
 PokeAPI provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
 
 ---
@@ -302,12 +302,12 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="40%" />
+  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="35%" />
 </p>
 
-[➤ 🎬 Watch Splash Screen Video](ProjectOutputs/WorkingVideo/splashScreen.mp4)
+➤ <a href="ProjectOutputs/WorkingVideo/splashScreen.mp4">🎬 Watch Splash Screen Video</a>
 
-[➤ 🎥 Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.MP4)
+➤ <a href="ProjectOutputs/WorkingVideo/workingVideo.MP4">🎥 Watch Working Video</a>
 
 ---
 
