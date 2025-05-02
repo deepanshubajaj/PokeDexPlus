@@ -68,6 +68,7 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 ## 🖼️ Screenshots:
 
 <p align="center">
+  <img src="ProjectOutputs/WorkingVideo/splashScreen.gif" alt="Splash Screen" width="30%" />
   <img src="ProjectOutputs/Snapshots/SScreen1.jpg" alt="Splash Screen 1" width="30%" />
   <img src="ProjectOutputs/Snapshots/SScreen2.jpg" alt="Splash Screen 2" width="30%" />
 </p>
@@ -300,7 +301,6 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/splashScreen.gif" alt="Splash Screen" width="35%" />
   <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="35%" />
 </p>
 
